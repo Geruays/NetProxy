@@ -1,5 +1,6 @@
 # NetProxy
 
+![NetProxy](https://i.ibb.co/MGQRn7N/standard.gif)
 
 *how to use*
 ``git clone github.com/geruays/NetProxy.git && cd NetProxy && npm i``

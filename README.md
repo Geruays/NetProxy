@@ -11,4 +11,5 @@
 
 
 # here a web
-[Firts Link](http://netfl.proxy.cloudns.ph/)
+[1. Using I frame](http://netfl.proxy.cloudns.ph/)
+[2. Using Glitch](https://netprox.glitch.me/)

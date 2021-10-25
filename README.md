@@ -14,3 +14,4 @@
 # here a web
 - [1. Using I frame](http://netfl.proxy.cloudns.ph/)
 - [2. Using Glitch](https://netprox.glitch.me/)
+- [3. Alternative Less Lag](http://net.proxy.cloudns.ph/)

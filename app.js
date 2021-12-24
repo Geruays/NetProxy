@@ -201,7 +201,7 @@
   proxy.response.headers.forEach((e, i, a) => {
       if (i == 'content-type') proxy.content_type = e;
     });
-  if (proxy.content_type == null || typeof proxy.content_type == 'undefined') proxy.content_type = 'text/html';
+  if (proxy.content_type === null || typeof proxy.content_type == 'undefined') proxy.content_type = 'text/html';
 
   proxy.sendResponse = proxy.buffer;
   
